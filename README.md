@@ -36,7 +36,7 @@ export default defineConfig({
       $lib: path.resolve('./src/lib'),
     },
   },
-})%
+});
 ```
 
 You're good to go.
