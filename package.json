@@ -1,7 +1,7 @@
 {
-  "name": "vite-plugin-svelte-inline-components",
+  "name": "vite-plugin-test-plugin-do-not-use",
   "version": "0.0.1",
-  "description": "Vite plugin that allows you to define components right inside your tests",
+  "description": "Test vite plugin, do not use",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
