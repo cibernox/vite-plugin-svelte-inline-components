@@ -4,6 +4,14 @@
   "description": "Test vite plugin, do not use",
   "main": "src/index.js",
   "type": "module",
+  "files":[
+    "src",
+    "package.json"
+  ],
+  "exports":{
+    ".":"./src/index.js",
+    "./package.json":"./package.json"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
