@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-test-plugin-do-not-use",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Test vite plugin, do not use",
   "main": "src/index.js",
   "type": "module",
